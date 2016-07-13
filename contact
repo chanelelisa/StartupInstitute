@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+	<h1 class="primary">conatct</h1>
+	<ul>
+		<li><a href="index.html">home</a></li>
+		<li><a href="portfolio.html" class="active">portfolio<a/></li>
+	</ul>
+<hr />
+	<p>The Startup Institute Web Design Track is a highly selective and immersive program designed to cover every phase of front-end development and interface design with an emphasis on user-centered principles. Built on the product development life cycle, the curriculum simulates real-life challenges to prepare you to successfully take a project from concept to launch. The Design program intensely covers universal principals, user-personas, low-fidelity mockups, wireframing, rapid prototyping, fonts & layouts, navigation flow, product launch and project management. The industry languages HTML, CSS, JavaScript, and jQuery are learned at a highly functional and comprehensive level.</p>
+
+	<img src="sadrobot.jpg" alt="sad robot"/>
+
+		<div></div>
+	</body>
+</html>
